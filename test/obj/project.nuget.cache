@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnAeFv9mpOyC2h+tI+dq7Lb7Rdx2n3jdcW/xk+2WnfxPuOhcuDMZo5vLPXHN+YLAXkob2j0V+j3DfTXrgqDW1A==",
+  "success": true,
+  "projectFilePath": "/home/cj1426/Downloads/trash/trash.csproj",
+  "expectedPackageFiles": [
+    "/home/cj1426/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.116/stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "/home/cj1426/.nuget/packages/system.data.sqlite.core/1.0.116/system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "/home/cj1426/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
